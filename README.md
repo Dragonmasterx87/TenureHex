@@ -22,6 +22,7 @@ python offer_report_generator.py \
 ```
 
 ## 📊 **Complete Output Package**
+```
 my_report/
 ├── parsed_offers.csv # Extracted package details
 ├── parsed_cv_metrics.csv # h-index, citations, pubs, K99/R00
@@ -33,8 +34,7 @@ my_report/
 ├── grants_10yr.png # Cumulative grants trajectory
 ├── summary_panel.png # 2x2 key metrics dashboard
 └── report.md # Executive summary
-
-text
+```
 
 ## 🧠 **What It Analyzes**
 
@@ -53,7 +53,6 @@ Formal mentorship language
 
 Tenure clock length
 
-text
 
 ### **From CV**:
 Total citations - h-index
@@ -62,7 +61,6 @@ First-author papers - Senior-author papers
 
 Total publications - K99/R00 detection
 
-text
 
 ## 💾 **Example Results**
 
@@ -88,7 +86,6 @@ tenurehex/
 └── assets/
 └── tenurehex.png
 
-text
 
 ## 📱 **Roadmap**
 
