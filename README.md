@@ -1,8 +1,9 @@
 # TenureHex
-
-![TenureHex icon](assets/tenurehex.png)
-
 **TenureHex** is a Python toolkit for analyzing **academic faculty offer letters** and **candidate CVs** to generate **theoretical success reports** for tenure-track career planning.
+
+<p align="center">
+  <img src="tenurehex.png" width="200"/>
+</p>
 
 ## 🎯 **Why TenureHex?**
 
