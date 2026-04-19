@@ -79,12 +79,14 @@ Edit `model_outputs()` for:
 - **R01 vs program project** priorities
 
 ## 🏗️ **Repository Structure**
+```
 tenurehex/
 ├── offer_report_generator.py
 ├── README.md
 ├── LICENSE
 └── assets/
 └── tenurehex.png
+```
 
 
 ## 📱 **Roadmap**
