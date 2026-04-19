@@ -18,7 +18,7 @@ pip install pandas numpy matplotlib python-docx pypdf tabulate
 # Run analysis
 python offer_report_generator.py \
   --cv "Your_CV_2026.docx" \
-  --offers "UF_Offer.pdf" "Miami_Offer.docx" "Tulane_Offer.pdf" \
+  --offers "R1_Offer.pdf" "R2_Offer.docx" "R3_Offer.pdf" \
   --outdir "my_report"
 ```
 
@@ -67,9 +67,9 @@ Total publications - K99/R00 detection
 
 | Institution | **R01 Yr5** | **Tenure Yr7** | **PhDs Yr10** | **High-IF Pubs** | **Total Grants** |
 |-------------|-------------|----------------|---------------|------------------|------------------|
-| **UF**      | **87%**     | **95%**        | **11**        | **28**           | **7**            |
-| **Miami**   | **80%**     | **95%**        | **9**         | **27**           | **6**            |
-| **Tulane**  | **31%**     | **92%**        | **5**         | **15**           | **3**            |
+| **R1**      | **87%**     | **95%**        | **11**        | **28**           | **7**            |
+| **R2**      | **80%**     | **95%**        | **9**         | **27**           | **6**            |
+| **R3**      | **31%**     | **92%**        | **5**         | **15**           | **3**            |
 
 ## 🔧 **Customization**
 
